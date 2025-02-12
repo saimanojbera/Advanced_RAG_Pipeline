@@ -25,9 +25,8 @@ This project implements a **Retrieval-Augmented Generation (RAG) pipeline** with
 - Can be extended with **multi-modal search** (text + images).
 
 ```
-
-
 ## Folder Structure
+```
 ```
 Advanced-RAG-Pipeline/
 │── crawling.ipynb  # Web crawling script
