@@ -38,5 +38,6 @@ Advanced-RAG-Pipeline/
 │── app.py  # Streamlit web interface
 │── requirements.txt  # Dependencies
 │── README.md  # Project documentation
+
 ```
 
